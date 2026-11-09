@@ -29,10 +29,10 @@ calls and turns that clumsy tools cost an agent.
 | Repository | What it does |
 | --- | --- |
 | [github-mcp-writepath-experiment](https://github.com/isokron-ai/github-mcp-writepath-experiment) | The changes behind our GitHub MCP server before/after benchmark, as a build and a patch series. Research only; not affiliated with GitHub. |
-| [kronicle-lite](https://github.com/rafe-walker/kronicle-lite) | Local-first MCP server: hash-chained document store, signed receipts, and the `verify-audit` command that checks an Evidence Pack offline. |
-| [sea-lite](https://github.com/rafe-walker/sea-lite) | MCP work queue for parallel coding agents: claim fencing, path-scoped claims and atomic batches. |
-| [mcp-catalog-snap](https://github.com/rafe-walker/mcp-catalog-snap) | Snapshot an MCP server's tool catalog as canonical JSON and fail CI on drift. |
-| [cc-anchor](https://github.com/rafe-walker/cc-anchor) | Claude Code plugin: an anchor card that survives context compaction. |
+| [kronicle-lite](https://github.com/isokron-ai/kronicle-lite) | Local-first MCP server: hash-chained document store, signed receipts, and the `verify-audit` command that checks an Evidence Pack offline. |
+| [sea-lite](https://github.com/isokron-ai/sea-lite) | MCP work queue for parallel coding agents: claim fencing, path-scoped claims and atomic batches. |
+| [mcp-catalog-snap](https://github.com/isokron-ai/mcp-catalog-snap) | Snapshot an MCP server's tool catalog as canonical JSON and fail CI on drift. |
+| [cc-anchor](https://github.com/isokron-ai/cc-anchor) | Claude Code plugin: an anchor card that survives context compaction. |
 
 ## How we report what we find
 
