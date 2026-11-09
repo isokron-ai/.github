@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://isokron.ai"><img src="isokron-logo.png" alt="IsoKron" width="276"></a>
+  <a href="https://isokron.ai"><img src="isokron-icon-512.png" alt="IsoKron" width="96" height="96"></a>
 </p>
 
 # IsoKron
